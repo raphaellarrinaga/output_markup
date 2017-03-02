@@ -1,0 +1,5 @@
+name: Output markup
+type: module
+description: 'Provides an empty block to paste custom code to use for testing purpose.'
+package: Dev
+core: '8.x'
